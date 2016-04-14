@@ -192,7 +192,7 @@
 	"stm32f0xx_wwdg.h"
 	"stm32f0xx_rcc.h"
 
-1460639304 source:d:\work\2016\scales\src\main.c
+1460640575 source:d:\work\2016\scales\src\main.c
 	"stm32f0xx_conf.h"
 	"crc.h"
 	"modbus.h"
