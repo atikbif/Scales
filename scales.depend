@@ -1,0 +1,248 @@
+# depslib dependency file v1.0
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_adc.c
+	"stm32f0xx_adc.h"
+	"stm32f0xx_rcc.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_adc.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\inc\stm32f0xx.h
+	"core_cm0.h"
+	"system_stm32f0xx.h"
+	<stdint.h>
+	"stm32f0xx_conf.h"
+
+1460546159 d:\work\2016\scales\cmsis\core_cm0.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+
+1460546159 d:\work\2016\scales\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+
+1460546159 d:\work\2016\scales\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+
+1456297612 d:\work\2016\scales\inc\system_stm32f0xx.h
+
+1460546159 d:\work\2016\scales\inc\stm32f0xx_conf.h
+	"stm32f0xx_adc.h"
+	"stm32f0xx_can.h"
+	"stm32f0xx_cec.h"
+	"stm32f0xx_crc.h"
+	"stm32f0xx_crs.h"
+	"stm32f0xx_comp.h"
+	"stm32f0xx_dac.h"
+	"stm32f0xx_dbgmcu.h"
+	"stm32f0xx_dma.h"
+	"stm32f0xx_exti.h"
+	"stm32f0xx_flash.h"
+	"stm32f0xx_gpio.h"
+	"stm32f0xx_syscfg.h"
+	"stm32f0xx_i2c.h"
+	"stm32f0xx_iwdg.h"
+	"stm32f0xx_pwr.h"
+	"stm32f0xx_rcc.h"
+	"stm32f0xx_rtc.h"
+	"stm32f0xx_spi.h"
+	"stm32f0xx_tim.h"
+	"stm32f0xx_usart.h"
+	"stm32f0xx_wwdg.h"
+	"stm32f0xx_misc.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_can.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_cec.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_crc.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_crs.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_comp.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_dac.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_dbgmcu.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_dma.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_exti.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_flash.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_gpio.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_syscfg.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_i2c.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_iwdg.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_pwr.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_rcc.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_rtc.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_spi.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_tim.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_usart.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_wwdg.h
+	"stm32f0xx.h"
+
+1460546159 d:\work\2016\scales\spl\inc\stm32f0xx_misc.h
+	"stm32f0xx.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_can.c
+	"stm32f0xx_can.h"
+	"stm32f0xx_rcc.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_cec.c
+	"stm32f0xx_cec.h"
+	"stm32f0xx_rcc.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_comp.c
+	"stm32f0xx_comp.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_crc.c
+	"stm32f0xx_crc.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_crs.c
+	"stm32f0xx_crs.h"
+	"stm32f0xx_rcc.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_dac.c
+	"stm32f0xx_dac.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_dbgmcu.c
+	"stm32f0xx_dbgmcu.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_dma.c
+	"stm32f0xx_dma.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_exti.c
+	"stm32f0xx_exti.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_flash.c
+	"stm32f0xx_flash.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_gpio.c
+	"stm32f0xx_gpio.h"
+	"stm32f0xx_rcc.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_i2c.c
+	"stm32f0xx_i2c.h"
+	"stm32f0xx_rcc.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_iwdg.c
+	"stm32f0xx_iwdg.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_misc.c
+	"stm32f0xx_misc.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_pwr.c
+	"stm32f0xx_pwr.h"
+	"stm32f0xx_rcc.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_rcc.c
+	"stm32f0xx_rcc.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_rtc.c
+	"stm32f0xx_rtc.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_spi.c
+	"stm32f0xx_spi.h"
+	"stm32f0xx_rcc.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_syscfg.c
+	"stm32f0xx_syscfg.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_tim.c
+	"stm32f0xx_tim.h"
+	"stm32f0xx_rcc.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_usart.c
+	"stm32f0xx_usart.h"
+	"stm32f0xx_rcc.h"
+
+1460546159 source:d:\work\2016\scales\spl\src\stm32f0xx_wwdg.c
+	"stm32f0xx_wwdg.h"
+	"stm32f0xx_rcc.h"
+
+1460639304 source:d:\work\2016\scales\src\main.c
+	"stm32f0xx_conf.h"
+	"crc.h"
+	"modbus.h"
+	"uart.h"
+	"settings.h"
+	"weight_sensor.h"
+
+1456320544 d:\work\2016\scales\inc\uart.h
+
+1460546159 source:d:\work\2016\scales\src\startup_stm32f0xx.s
+
+1456315509 source:d:\work\2016\scales\src\stm32f0xx_it.c
+	"stm32f0xx_it.h"
+
+1456315509 d:\work\2016\scales\inc\stm32f0xx_it.h
+
+1460560299 source:d:\work\2016\scales\src\system_stm32f0xx.c
+	"stm32f0xx.h"
+
+1460629153 source:d:\work\2016\scales\src\uart.c
+	"uart.h"
+	"stm32f0xx_conf.h"
+
+1342616692 source:d:\work\2016\scales\src\crc.c
+	"crc.h"
+
+1454327537 d:\work\2016\scales\inc\crc.h
+
+1454418036 source:d:\work\2016\scales\src\eeprom.c
+	"eeprom.h"
+
+1460558511 d:\work\2016\scales\inc\eeprom.h
+	"stm32f0xx.h"
+
+1460562218 source:d:\work\2016\scales\src\settings.c
+	"settings.h"
+	"eeprom.h"
+
+1460559424 d:\work\2016\scales\inc\settings.h
+
+1456392749 d:\work\2016\scales\inc\modbus.h
+
+1460553882 d:\work\2016\scales\inc\weight_sensor.h
+
+1460619628 source:d:\work\2016\scales\src\modbus.c
+	"modbus.h"
+	"crc.h"
+	"settings.h"
+
+1460553882 source:d:\work\2016\scales\src\weight_sensor.c
+	"weight_sensor.h"
+	"stm32f0xx_conf.h"
+
